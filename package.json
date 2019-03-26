@@ -1,0 +1,19 @@
+{
+  "name": "spa-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liye45/spa-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liye45/spa-demo/issues"
+  },
+  "homepage": "https://github.com/liye45/spa-demo#readme"
+}
